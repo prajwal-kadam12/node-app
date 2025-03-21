@@ -1,0 +1,12 @@
+{
+    "employee_id": 1,
+    "name": "Jenny",
+    "isMarried": true,
+    "skill": ["java","HTML","Css","React"],
+    "Adderss": {
+        "FlatNo": 121321,
+        "Floor": 123,
+        "Street": "Wakad",
+        "City": "pune"
+    }
+}
